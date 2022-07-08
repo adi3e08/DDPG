@@ -1,5 +1,9 @@
 # Deep Deterministic Policy Gradient (DDPG)
-A clean and minimal implementation of Deep Deterministic Policy Gradient (DDPG) algorithm in Pytorch.
+This repository contains a clean and minimal implementation of Deep Deterministic Policy Gradient (DDPG) algorithm in Pytorch.
+
+DDPG is a model-free deep RL algorithm for continuous action spaces. It adopts an off-policy actor-critic approach and uses deterministic policies.
+
+You can find more details about how DDPG works in my blog post [here](https://adi3e08.github.io/posts/2019/06/ddpg/).
 
 ## References
 * "Continuous control with deep reinforcement learning", Lillicrap et al. [Link](https://arxiv.org/abs/1509.02971).
