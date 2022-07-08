@@ -1,5 +1,5 @@
-# DDPG-Pytorch
-A clean and minimal implementation of DDPG (Deep Deterministic Policy Gradient) algorithm in Pytorch.
+# Deep Deterministic Policy Gradient (DDPG)
+A clean and minimal implementation of Deep Deterministic Policy Gradient (DDPG) algorithm in Pytorch.
 
 ## References
 * "Continuous control with deep reinforcement learning", Lillicrap et al. [Link](https://arxiv.org/abs/1509.02971).
