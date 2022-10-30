@@ -3,7 +3,7 @@ This repository contains a clean and minimal implementation of Deep Deterministi
 
 DDPG is a model-free deep RL algorithm for continuous action spaces. It adopts an off-policy actor-critic approach and uses deterministic policies.
 
-You can find more details about how DDPG works in my accompanying blog post [here](https://adi3e08.github.io/posts/2019/06/ddpg/).
+You can find more details about how DDPG works in my accompanying blog post [here](https://adi3e08.github.io/blog/ddpg/).
 
 ## References
 * "Continuous control with deep reinforcement learning", Lillicrap et al. [Link](https://arxiv.org/abs/1509.02971).
@@ -31,7 +31,7 @@ You can find more details about how DDPG works in my accompanying blog post [her
 </p>
 
 
-* [Bipedal Walker](https://gym.openai.com/envs/BipedalWalker-v2/) (OpenAI Gym) - Train a bipedal robot to walk.
+* [Bipedal Walker](https://www.gymlibrary.dev/environments/box2d/bipedal_walker/) (OpenAI Gym) - Train a bipedal robot to walk.
 
 <p align="center">
 <img src=".media/ddpg_bipedal_walker.png" width="50%" height="50%"/>
@@ -41,7 +41,7 @@ You can find more details about how DDPG works in my accompanying blog post [her
 <img src=".media/ddpg_bipedal_walker.gif" width="50%" height="50%"/>
 </p>
 
-* [Pendulum](https://gym.openai.com/envs/Pendulum-v0/) (OpenAI Gym) - Swing up a pendulum.
+* [Pendulum](https://www.gymlibrary.dev/environments/classic_control/pendulum/) (OpenAI Gym) - Swing up a pendulum.
 
 <p align="center">
 <img src=".media/ddpg_pendulum.png" width="50%" height="50%"/>
