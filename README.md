@@ -6,7 +6,7 @@ DDPG is a model-free deep RL algorithm for continuous action spaces. It adopts a
 You can find more details about how DDPG works in my accompanying blog post [here](https://adi3e08.github.io/blog/ddpg/).
 
 ## References
-* "Continuous control with deep reinforcement learning", Lillicrap et al. [Link](https://arxiv.org/abs/1509.02971).
+* Timothy P Lillicrap, Jonathan J Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, and Daan Wierstra. Continuous control with deep reinforcement learning. arXiv preprint arXiv:1509.02971, 2015. [Link](https://arxiv.org/abs/1509.02971)
 
 ## Tested on
 
