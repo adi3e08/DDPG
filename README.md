@@ -9,15 +9,17 @@ You can find more details about how DDPG works in my accompanying blog post [her
 I trained DDPG on a few continuous control tasks from [Deepmind Control Suite](https://github.com/deepmind/dm_control/tree/master/dm_control/suite). Results are below.
 
 * Cartpole Swingup - Swing up and balance an unactuated pole by applying forces to a cart at its base.
+
 <p align="center">
-	<img src="./docs/ddpg_cartpole_swingup.png" width="40%"/>
-	<img src="./docs/ddpg_cartpole_swingup.gif" width="40%"/>
+<img src="./docs/ddpg_cartpole_swingup.png" width="40"/>
+<img src="./docs/ddpg_cartpole_swingup.gif" width="40%"/>
 </p>
 
 * Reacher Hard - Control a two-link robotic arm to reach a randomized target location.
+
 <p align="center">
-	<img src="./docs/ddpg_reacher_hard.png" width="40%"/>
-	<img src="./docs/ddpg_reacher_hard.gif" width="40%"/>
+<img src="./docs/ddpg_reacher_hard.png" width="40%"/>
+<img src="./docs/ddpg_reacher_hard.gif" width="40%"/>
 </p>
 
 ## References
