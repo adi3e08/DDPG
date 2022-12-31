@@ -74,7 +74,7 @@ def process_observation(time_step):
     
     return o_1, r, done
 
-# DDPG algorithm
+# Deep Deterministic Policy Gradient algorithm
 class DDPG:
     def __init__(self, arglist):
         self.arglist = arglist
@@ -173,7 +173,7 @@ class DDPG:
 
     def train(self):
         writer = SummaryWriter(log_dir=self.tensorboard_dir)
-        for episode in range(self.arglist.episodes):
+        for episode in range(self.start_episode,self.arglist.episodes):
             o,_,_ = process_observation(self.env.reset())
             ep_r = 0
             while True:
