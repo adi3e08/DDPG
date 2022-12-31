@@ -11,7 +11,7 @@ I trained DDPG on a few continuous control tasks from [Deepmind Control Suite](h
 * Cartpole Swingup - Swing up and balance an unactuated pole by applying forces to a cart at its base.
 
 <p align="center">
-<img src="./docs/ddpg_cartpole_swingup.png" width="40"/>
+<img src="./docs/ddpg_cartpole_swingup.png" width="40%"/>
 <img src="./docs/ddpg_cartpole_swingup.gif" width="40%"/>
 </p>
 
