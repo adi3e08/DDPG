@@ -32,6 +32,12 @@ I trained DDPG on a few continuous control tasks from [Deepmind Control Suite](h
 <img src="https://adi3e08.github.io/files/blog/ddpg/imgs/ddpg_walker_run.gif" width="31%"/>
 </p>
 
+* Humanoid Walk : Control a simplified humanoid to walk.
+<p align="center">
+<img src="https://adi3e08.github.io/files/blog/ddpg/imgs/ddpg_humanoid_walk.png" width="40%"/>
+<img src="https://adi3e08.github.io/files/blog/ddpg/imgs/ddpg_humanoid_walk.gif" width="31%"/>
+</p>
+
 ## Requirements
 - Python
 - Numpy
